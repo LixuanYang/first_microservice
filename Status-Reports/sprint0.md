@@ -21,7 +21,7 @@ We will post submission instructions on Ed for submitting the report.
 - Place a screen capture of your directory below. Display the structure in a terminal window, PyCharm, file explorer
 or any other mechanism.
 
-| <img src="./project_structure.jpg"> |
+| <img src="./project_structure.png"> |
 |:-----------------------------------:|
 |         __Cloned Project__          | 
 
@@ -30,7 +30,7 @@ or any other mechanism.
 You can choose any formats for the screen capture as long as it shows your project executing. My simple example shows
 and execution window and browser side-by-side.
 
-| <img src="./project_execution.jpg"> |
+| <img src="./project_execution.png"> |
 |:-----------------------------------:|
 |        __Project Execution__        | 
 
@@ -39,7 +39,7 @@ and execution window and browser side-by-side.
 
 Make a copy of the project and create a project in GitHub. Show the project.
 
-| <img src="./github_page.jpg"> |
+| <img src="./github_page.png"> |
 |:------------------------:|
 |  __Project on GitHub__   | 
 
@@ -48,12 +48,12 @@ Make a copy of the project and create a project in GitHub. Show the project.
 
 Show the information about your VM through the console.
 
-| <img src="./ec2_console.jpg"> |
+| <img src="./ec2_console.png"> |
 |:-----------------------------:|
 |        __AWS Console__        | 
 
 Show the application running in the EC2 terminal and browser.
 
-| <img src="./aws_running.jpg"> |
+| <img src="./aws_running.png"> |
 |:-----------------------------:|
 |      __Service Running__      | 
